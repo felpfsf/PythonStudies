@@ -85,4 +85,4 @@ while loop:            # INICIA E MANTÉM O LOOP ENQUANTO A VARIÁVEL "loop" FOR
     else:
         print("Comando inválido")
 
-print("Obrigado por usar a calculadora")        # IMPRIME UMA MENSAGEM AO TERMINAR O PROGRAMA
+print("Obrigado por usar a calculadora")        # IMPRIME UMA MENSAGEM AO TERMINAR O PROGRAMA.
