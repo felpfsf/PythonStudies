@@ -1,2 +1,2 @@
 # PythonStudies
-Python Práticas
+Um pouco de exercícios de python
